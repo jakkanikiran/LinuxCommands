@@ -1,0 +1,51 @@
+﻿$ls
+
+$cat file
+
+$logout
+
+$date
+
+$date -u
+
+$date “+Today's date is: %D. The time is: %T”
+
+$cal
+
+$cal month
+
+$cal 2011
+
+$cal 1 2016
+
+$passwd
+
+$echo (print the information)
+
+$man
+
+$man cal
+
+$man man
+
+$man -k sort
+
+$lpr file1
+
+$tty
+
+$stty
+
+$clear
+
+$stty sane
+
+$stty kill 9
+
+$stty intr ^9
+
+$stty erase  ^e
+
+$ctrl + h
+
+
